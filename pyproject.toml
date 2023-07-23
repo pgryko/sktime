@@ -87,6 +87,7 @@ all_extras = [
     "xarray",
     "seasonal",
     "scikit-optimize",
+    "torch",
 ]
 
 all_extras_pandas2 = [
