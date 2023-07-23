@@ -2,7 +2,7 @@
 
 import torch
 
-from sktime.forecasting.deep_learning import BaseDeepNetworkPyTorch
+from sktime.networks.base import BaseDeepNetworkPyTorch
 
 
 class LTSFLinearForecaster(BaseDeepNetworkPyTorch):
