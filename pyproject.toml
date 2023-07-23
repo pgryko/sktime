@@ -173,6 +173,10 @@ dl = [
     "tensorflow",
 ]
 
+pytorch = [
+    "torch",
+]
+
 pandas1 = [
     "pandas<2.0.0",
 ]
